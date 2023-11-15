@@ -1,0 +1,17 @@
+- Motiviation for prediction
+- Describe the features
+	- Mention difference in categorical vs numerical
+- Drop quantitative data
+	- Mean, Max, Mean for each feature
+- Make graphs!!
+	- Look for some interesting or strange data points
+- Show visual reps of each model
+- For each model...
+	- Describe each model on a basic level
+	- Describe the training and testing data 
+	- Observations
+		- Describe fitting
+- Check for which models weren't talked about 
+- Use random tree to remove overfitting in normal decision trees
+	- Compare normal decision tree to random forest
+- Conclusion over all the scores and whether we think if they can used

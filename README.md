@@ -37,16 +37,13 @@ Evaluation Metrics:
 The evaluation metrics we will be using are:
 1) R2 value
 2) Confusion Matrix
-3) Accuracy, Precision, F1 Score, and Recall
-4) Root Mean Square Error
+3) Root Mean Square Error
 
 
 Workload Distribution:
 As a group we are dividing the workload based on the Models and Evaluation Metrics. Everett
 will be using the Lasso/Ridge Regression model and the R2 value evaluation metric. Yonathan
 will be using the Random Forest Regression model and the Root Mean Square Error evaluation
-metric. Connor will be using the Linear Regression model and the Accuracy, Precision, F1 Score,
-and Recall evaluation metric. Lastly, Austin will be using the Decision Tree model and the
-Confusion Matrix evaluation metric. Each member of the group will work on the powerpoint
+metric. Connor will be using the Linear Regression model and the R^2 evaluation metric. Lastly, Austin will be using the Decision Tree model and the Confusion Matrix evaluation metric. Each member of the group will work on the powerpoint
 according to the model and evaluation metric they have addressed and if any assistance is needed
 the group will be there to assist.
